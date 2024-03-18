@@ -1,2 +1,2 @@
 # testAction
-To test hello-world-composit-action
+To test hello-world-composite-action
